@@ -1,0 +1,22 @@
+// let a=10;
+// let b=15;
+// console.log("a+b =",a+b);
+// let a=10;
+// let b=30;
+// console.log("a-b =",a-b);
+// let a=12;
+// let b=13;
+// console.log("a*b =",a*b);
+// let a=34;
+// let b=66;
+// console.log("a/b =",a/b);
+// let a=2;
+// let b=5;
+// console.log("a % b =",a%b);
+// leta=5;
+// let b=9;
+// console.log("a**b =",a**b);
+// let a=5;
+// console.log(++a);
+// let a=6;
+// console.log(a--)
